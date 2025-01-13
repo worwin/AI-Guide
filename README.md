@@ -6,14 +6,14 @@ This will act as a reference for me to go back and restudy material I may need. 
 ## Mathematics 
 
 ### Professor Leonard
-[Prealgebra](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13)
-[Intermediate Algebra](https://www.youtube.com/watch?v=0EnklHkVKXI&list=PLC292123722B1B450)
-[Introduction to Statistics](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
-[Precalculus - College Algebra/Trigonometry](https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
-[Calculus I](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
-[Calculus II](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
-[Calculus III](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
-[Intro to Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+[Prealgebra](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13)</br>
+[Intermediate Algebra](https://www.youtube.com/watch?v=0EnklHkVKXI&list=PLC292123722B1B450)</br>
+[Introduction to Statistics](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)</br>
+[Precalculus - College Algebra/Trigonometry](https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)</br>
+[Calculus I](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)</br>
+[Calculus II](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)</br>
+[Calculus III](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)</br>
+[Intro to Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)</br>
 
 ### MIT
 [MIT 18.01 Single Variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
