@@ -16,27 +16,27 @@ This will act as a reference for me to go back and restudy material I may need. 
 [Intro to Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)</br>
 
 ### MIT
-[MIT 18.01 Single Variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
-[MIT 18.02 Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
-[MIT 18.03 Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
+[MIT 18.01 Single Variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)</br>
+[MIT 18.02 Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)</br>
+[MIT 18.03 Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)</br>
 
-[MIT 18.06 Linear Algebra - Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
-[MIT 18.650 Statistics for Applications - Philippe Regollet](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+[MIT 18.06 Linear Algebra - Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)</br>
+[MIT 18.650 Statistics for Applications - Philippe Regollet](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)</br>
 
 ## Computer Science
 
 ### Classical CS Introductions and Algorithms
-[Harvard CS50 Introduction to Computer Science (C/Python)](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
-[MIT 6.100L Introduction to CS and Programming using Python - Ana Bell](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
-[MIT 6.006 Intro to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
-[MIT 6.851 Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+[Harvard CS50 Introduction to Computer Science (C/Python)](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)</br>
+[MIT 6.100L Introduction to CS and Programming using Python - Ana Bell](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)</br>
+[MIT 6.006 Intro to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)</br>
+[MIT 6.851 Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)</br>
 
 ### Artificial Intelligence Focused
-[Stanford CS229 Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-[Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-[Stanford CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+[Stanford CS229 Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)</br>
+[Stanford CS230 Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)</br>
+[Stanford CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)</br>
 
 ## Influential Research Articles
-[Attention Is All You Need [1706.03762]](https://arxiv.org/pdf/1706.0)
+[Attention Is All You Need 1706.03762](https://arxiv.org/pdf/1706.0)</br>
 
 
