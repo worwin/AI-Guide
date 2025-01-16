@@ -1,6 +1,6 @@
 # AI-Guide
-These are links to material that I found vital to passing courses I was taking at Texas Tech Unviersity and the Technische Unversitat Hamburg-Harburg.
-This will act as a reference for me to go back and restudy material I may need. It also contains coruses on material I want to study in the future. 
+These are links to material that I found vital to passing courses I was taking at Texas Tech Unviersity (TTU) and the Technische Universität Hamburg (TUHH).
+This will act as a reference to go back and restudy material I may need. It also contains coruses on material I want to study in the future. 
 
 
 ## Mathematics 
