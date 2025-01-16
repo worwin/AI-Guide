@@ -37,6 +37,6 @@ This will act as a reference for me to go back and restudy material I may need. 
 [Stanford CS231n Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)</br>
 
 ## Influential Research Articles
-[Attention Is All You Need 1706.03762](https://arxiv.org/pdf/1706.0)</br>
+[Transformers/Attention - Attention Is All You Need 1706.03762](https://arxiv.org/pdf/1706.0)</br>
 
 
